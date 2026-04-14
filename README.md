@@ -1,55 +1,70 @@
-<h1 align="center">Your Name</h1>
+<div align="center">
 
-<p align="center">
-  Flutter Developer • Backend Engineer • Problem Solver
-</p>
+# Your Name
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=AAAAAA&center=true&vCenter=true&width=400&lines=Building+Scalable+Apps;300%2B+LeetCode+Problems;Clean+and+Efficient+Code" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=555555&center=true&vCenter=true&width=480&lines=Flutter+%2B+Node.js+Developer;300%2B+LeetCode+Problems+Solved;Building+fast%2C+clean%2C+scalable+apps" />
+
+</div>
 
 ---
 
 ## About
 
-- Flutter developer focused on high-performance mobile apps  
-- Backend development with Node.js  
-- Experience with PostgreSQL & MongoDB  
-- Solved 300+ problems on LeetCode  
+I build mobile apps with Flutter and back them with robust Node.js APIs. I care about performance, clean architecture, and writing code that's easy to reason about.
+
+- 📱 Flutter — high-performance cross-platform apps
+- ⚙️ Node.js — RESTful APIs and backend services
+- 🗄️ PostgreSQL & MongoDB — relational and document data models
+- 🧠 300+ LeetCode problems solved (and counting)
 
 ---
 
-## Stack
+## Tech Stack
 
-Flutter • Node.js • PostgreSQL • MongoDB • JavaScript • Git
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma&ext=contest" />
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Karma&ext=contest&border=0" />
+</div>
 
 ---
 
-## GitHub
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&theme=default&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&count_private=true&hide_rank=false" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true" height="150"/>
+</div>
 
 ---
 
 ## Selected Work
 
-- Project One — Short, clear description  
-- Project Two — What problem it solves  
-- Project Three — Impact or scale  
+**Project One** — What it does and why it matters. One or two sentences max.
+
+**Project Two** — Frame it around the problem it solves, not the stack it uses.
+
+**Project Three** — Include scale or impact if you have it — users, performance, adoption.
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> • 
-  <a href="mailto:your@email.com">Email</a>
-</p>
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/YOUR_LINK) &nbsp;•&nbsp; [Email](mailto:your@email.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+</div>
