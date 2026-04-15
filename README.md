@@ -46,7 +46,7 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://ghchart.ssh.surf/241030072-sys" alt="GitHub Contribution Chart" />
+  <img src="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
 </div>
 
 ---
