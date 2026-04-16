@@ -55,6 +55,13 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 
 ---
 
+## Projects
+
+Blinkit - Building a replica of blinkit
+Built a security app for identifying clone, fake apps
+
+---
+
 <div align="center">
 
 [LinkedIn](https://linkedin.com/in/shivam-enthusiast) &nbsp;•&nbsp; [Email](mailto:shivamsharmasinger98@gmail.com.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/purecoder23)
