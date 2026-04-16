@@ -58,6 +58,7 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 ## Projects
 
 Blinkit - Building a replica of blinkit
+
 Built a security app for identifying clone, fake apps
 
 ---
