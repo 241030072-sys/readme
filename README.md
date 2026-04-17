@@ -2,7 +2,7 @@
 
 # Shivam Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=555555&center=true&vCenter=true&width=480&lines=Flutter+%2B+Node.js+Developer;300%2B+LeetCode+Problems+Solved;Building+fast%2C+clean%2C+scalable+apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Flutter+%2B+Node.js+Developer;Hackathon+Winner+%7C+Problem+Solver;Building+Scalable+%26+Efficient+Apps" />
 
 </div>
 
@@ -10,13 +10,14 @@
 
 ## About
 
-I build mobile apps with Flutter and back them with robust Node.js APIs. I care about performance, clean architecture, and writing code that's easy to reason about.
+I build high-performance mobile applications using Flutter and support them with scalable Node.js backends.  
+Focused on clean architecture, efficient systems, and writing maintainable code.
 
-- 📱 Flutter — high-performance cross-platform apps
-- ⚙️ Node.js — RESTful APIs and backend services
-- 🗄️ PostgreSQL & MongoDB — relational and document data models
-- 🧠 300+ LeetCode problems solved (and counting)
-- 🏗️ Exploring System Design — scalability, distributed systems, and backend architecture
+- 📱 Flutter — cross-platform app development with optimized performance  
+- ⚙️ Node.js — REST APIs and backend systems  
+- 🗄️ PostgreSQL & MongoDB — structured and flexible data handling  
+- 🧠 Solved **300+ LeetCode problems** focused on DSA & optimization  
+- 🏗️ Exploring **System Design** — scalability, distributed systems, backend architecture  
 
 ---
 
@@ -49,43 +50,36 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=241030072-sys&theme=default&utcOffset=5.5" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=241030072-sys&theme=default" />
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/241030072-sys/241030072-sys/output/snake.svg" />
-  </picture>
 </div>
 
 ---
 
 ## Projects
 
-Blinkit Clone — Real-time order tracking + map integration
+- **Blinkit Clone**  
+  Real-time order tracking with map integration and live status updates  
 
-Security App — Detects cloned/fake apps using device-level checks
+- **Security App**  
+  Detects cloned and fake applications using device-level validation  
 
 ---
 
-Achievements
+## Achievements
 
-🏆 5× Hackathon Winner — including SIH 2025 Internal Round (also IEEE Hackathon)
-
-🚀 Delivered production-ready prototypes in high-pressure, time-bound environments
-
-🧠 Solved 300+ algorithmic problems on LeetCode, strengthening DSA & optimization skills
+- 🏆 **5× Hackathon Winner** — including *SIH 2025 Internal Round* & IEEE Hackathon  
+- 🚀 Built production-ready prototypes in high-pressure environments  
+- 🧠 Strong DSA foundation with 300+ problems solved on LeetCode  
+- 🤝 Experience working in fast-paced, team-based development environments  
 
 ---
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/shivam-enthusiast) &nbsp;•&nbsp; [Email](mailto:shivamsharmasinger98@gmail.com) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/purecoder23)
+[LinkedIn](https://linkedin.com/in/shivam-enthusiast) • 
+[Email](mailto:shivamsharmasinger98@gmail.com) • 
+[LeetCode](https://leetcode.com/purecoder23)
 
 </div>
