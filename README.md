@@ -66,10 +66,12 @@ Security App — Detects cloned/fake apps using device-level checks
 
 Achievements
 
-🏆 5× Hackathon Winner — including SIH 2025 Internal Round
+🏆 5× Hackathon Winner — including SIH 2025 Internal Round (also IEEE Hackathon)
+
 🚀 Delivered production-ready prototypes in high-pressure, time-bound environments
+
 🧠 Solved 300+ algorithmic problems on LeetCode, strengthening DSA & optimization skills
-🤝 Collaborated in cross-functional teams, handling both frontend (Flutter) and backend (Node.js) responsibilities
+
 
 ---
 
