@@ -56,10 +56,6 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 
 <br/>
 
-<!-- Stats + Top Languages side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=shivam1248-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1248-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="49%" />
-
 </div>
 
 ---
