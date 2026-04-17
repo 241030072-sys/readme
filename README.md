@@ -44,6 +44,16 @@ I build mobile apps with Flutter and back them with robust Node.js APIs. I care 
 
 ---
 
+## Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=241030072-sys&theme=default&utcOffset=5.5" />
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -71,7 +81,6 @@ Achievements
 🚀 Delivered production-ready prototypes in high-pressure, time-bound environments
 
 🧠 Solved 300+ algorithmic problems on LeetCode, strengthening DSA & optimization skills
-
 
 ---
 
