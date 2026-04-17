@@ -47,7 +47,20 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 
 ## Activity
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<div align="center">
+
+<br/><br/>
+
+<!-- Activity Graph — Tokyo Night theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=241030072-sys&theme=tokyo-night&hide_border=true&area=true&radius=6" width="100%" />
+
+<br/>
+
+<!-- Stats + Top Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=241030072-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=241030072-sys&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="49%" />
+
+</div>
 
 ---
 
