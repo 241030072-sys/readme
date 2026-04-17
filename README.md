@@ -2,7 +2,7 @@
 
 # Shivam Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Flutter+%2B+Node.js+Developer;Hackathon+Winner+%7C+Problem+Solver;Building+Scalable+%26+Efficient+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Flutter+%2B+Node.js+Developer;5X+Hackathon+Winner+%7C+Problem+Solver;Building+Scalable+%26+Efficient+Apps" />
 
 </div>
 
