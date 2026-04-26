@@ -77,10 +77,13 @@ Focused on clean architecture, efficient systems, and writing maintainable code.
 ## Projects
 
 - **Blinkit Clone**  
-  Real-time order tracking with map integration and live status updates  
+  Real-time order tracking with map integration and live status updates (building)  
 
 - **Security App**  
-  Detects cloned and fake applications using device-level validation  
+  Detects cloned and fake applications using device-level validation.
+
+- **DocTrace**  
+  Generates unique identifiers for each document and enables tracking of leaked files back to the source (building).
 
 ---
 
